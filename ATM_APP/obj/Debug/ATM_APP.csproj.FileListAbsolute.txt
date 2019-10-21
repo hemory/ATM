@@ -1,0 +1,6 @@
+C:\Users\hphifer\source\repos\ATM_APP\ATM_APP\bin\Debug\ATM_APP.exe.config
+C:\Users\hphifer\source\repos\ATM_APP\ATM_APP\bin\Debug\ATM_APP.exe
+C:\Users\hphifer\source\repos\ATM_APP\ATM_APP\bin\Debug\ATM_APP.pdb
+C:\Users\hphifer\source\repos\ATM_APP\ATM_APP\obj\Debug\ATM_APP.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\ATM_APP\ATM_APP\obj\Debug\ATM_APP.exe
+C:\Users\hphifer\source\repos\ATM_APP\ATM_APP\obj\Debug\ATM_APP.pdb
